@@ -1,0 +1,18 @@
+feature,mean_abs_attribution,mean_signed_attribution,positive_attribution_fraction,method,readable_label,feature_group,gene_symbol,is_gene_feature,direction,rank
+MUT_KRAS,0.053392064,0.0075821765,0.12867647058823528,DeepSHAP-style DeepLiftShap,KRAS mutation,Mutation,KRAS,True,Risk-increasing,16
+CNA_CDKN2A,0.044872813,0.013458916,0.10661764705882353,DeepSHAP-style DeepLiftShap,CDKN2A CNA,Copy number alteration,CDKN2A,True,Risk-increasing,18
+CNA_AXL,0.033653673,-0.033653673,0.0,DeepSHAP-style DeepLiftShap,AXL CNA,Copy number alteration,AXL,True,Protective,22
+CNA_CDKN2Ap14ARF,0.030566264,0.0080854185,0.10294117647058823,DeepSHAP-style DeepLiftShap,CDKN2Ap14ARF CNA,Copy number alteration,CDKN2Ap14ARF,True,Risk-increasing,24
+MUT_CD276,0.018830111,-0.008259126,0.003676470588235294,DeepSHAP-style DeepLiftShap,CD276 mutation,Mutation,CD276,True,Protective,33
+CNA_PPP2R1A,0.016749745,-0.016749745,0.0,DeepSHAP-style DeepLiftShap,PPP2R1A CNA,Copy number alteration,PPP2R1A,True,Protective,34
+CNA_POLD1,0.016609821,-0.016609821,0.0,DeepSHAP-style DeepLiftShap,POLD1 CNA,Copy number alteration,POLD1,True,Protective,35
+MUT_ARID1A,0.015834684,0.004669484,0.3860294117647059,DeepSHAP-style DeepLiftShap,ARID1A mutation,Mutation,ARID1A,True,Risk-increasing,38
+CNA_TP53,0.014231997,0.014231997,0.007352941176470588,DeepSHAP-style DeepLiftShap,TP53 CNA,Copy number alteration,TP53,True,Risk-increasing,39
+CNA_CDKN2B,0.007930227,2.0105026e-05,0.3713235294117647,DeepSHAP-style DeepLiftShap,CDKN2B CNA,Copy number alteration,CDKN2B,True,Risk-increasing,42
+CNA_CDKN2Ap16INK4A,0.0068546203,-0.00078371685,0.2867647058823529,DeepSHAP-style DeepLiftShap,CDKN2Ap16INK4A CNA,Copy number alteration,CDKN2Ap16INK4A,True,Protective,44
+CNA_WHSC1L1,0.0032323517,0.0032323517,0.007352941176470588,DeepSHAP-style DeepLiftShap,WHSC1L1 CNA,Copy number alteration,WHSC1L1,True,Risk-increasing,45
+MUT_SHQ1,0.0031971582,0.0031971582,0.003676470588235294,DeepSHAP-style DeepLiftShap,SHQ1 mutation,Mutation,SHQ1,True,Risk-increasing,46
+MUT_FGFR4,0.00032842212,0.00032842212,0.003676470588235294,DeepSHAP-style DeepLiftShap,FGFR4 mutation,Mutation,FGFR4,True,Risk-increasing,47
+CNA_HOXB13,0.0,0.0,0.0,DeepSHAP-style DeepLiftShap,HOXB13 CNA,Copy number alteration,HOXB13,True,Neutral,48
+CNA_XPO1,0.0,0.0,0.0,DeepSHAP-style DeepLiftShap,XPO1 CNA,Copy number alteration,XPO1,True,Neutral,49
+CNA_REL,0.0,0.0,0.0,DeepSHAP-style DeepLiftShap,REL CNA,Copy number alteration,REL,True,Neutral,50

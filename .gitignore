@@ -1,0 +1,12 @@
+# Raw and processed data are downloaded from cBioPortal, not committed
+Data/
+Processed Data/
+Processed_Data/
+# Trained models
+Model/
+*.pkl
+*.pt
+# System and notebook clutter
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/

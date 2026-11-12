@@ -1,0 +1,51 @@
+feature,mean_abs_attribution,mean_signed_attribution,positive_attribution_fraction,method,readable_label,feature_group,gene_symbol,is_gene_feature,direction,rank
+METASTASIS_Yes,0.12748589,0.12748589,0.31985294117647056,Integrated Gradients,METASTASIS Yes,Clinical / pathology,,False,Risk-increasing,1
+CURATIVE_INTENT_SURGERY_Yes,0.12572637,-0.12572637,0.0,Integrated Gradients,CURATIVE INTENT SURGERY Yes,Treatment / surgery,,False,Protective,2
+PALLIATIVE_SYSTEMIC_THERPAY_No,0.089376576,-0.020770324,0.08088235294117647,Integrated Gradients,PALLIATIVE SYSTEMIC THERPAY No,Other,,False,Protective,3
+TUMOR_SIZE,0.08793517,0.015369196,0.3272058823529412,Integrated Gradients,TUMOR SIZE,Clinical / pathology,,False,Risk-increasing,4
+PALLIATIVE_SYSTEMIC_THERPAY_Yes,0.07943981,-0.03138417,0.08088235294117647,Integrated Gradients,PALLIATIVE SYSTEMIC THERPAY Yes,Other,,False,Protective,5
+P_N_Negative,0.07463569,-0.07463569,0.0,Integrated Gradients,P N Negative,Clinical / pathology,,False,Protective,6
+METASTASIS_No,0.06666312,0.06666312,0.33088235294117646,Integrated Gradients,METASTASIS No,Clinical / pathology,,False,Risk-increasing,7
+DIAGNOSIS_AGE,0.064070076,7.111038e-05,0.5147058823529411,Integrated Gradients,DIAGNOSIS AGE,Demographic,,False,Risk-increasing,8
+RESECTION_MARGIN_R0,0.06118849,-0.06118849,0.0,Integrated Gradients,RESECTION MARGIN R0,Treatment / surgery,,False,Protective,9
+P_N_,0.057699442,-0.015883906,0.36764705882352944,Integrated Gradients,P N ,Clinical / pathology,,False,Protective,10
+TUMOR_STAGE_Poorly differentiated,0.052319933,0.049248546,0.25,Integrated Gradients,TUMOR STAGE Poorly differentiated,Clinical / pathology,,False,Risk-increasing,11
+C_N_Yes,0.051776115,0.051776115,0.3639705882352941,Integrated Gradients,C N Yes,Clinical / pathology,,False,Risk-increasing,12
+CURATIVE_INTENT_SURGERY_No,0.050356302,-0.05023287,0.014705882352941176,Integrated Gradients,CURATIVE INTENT SURGERY No,Treatment / surgery,,False,Protective,13
+LVI_,0.049576353,0.049576353,0.3860294117647059,Integrated Gradients,LVI ,Clinical / pathology,,False,Risk-increasing,14
+CNA_CDKN2A,0.03732426,0.03708962,0.10661764705882353,Integrated Gradients,CDKN2A CNA,Copy number alteration,CDKN2A,True,Risk-increasing,15
+C_N_No,0.028490933,-0.007791371,0.2536764705882353,Integrated Gradients,C N No,Clinical / pathology,,False,Protective,16
+LVI_Yes,0.028347392,0.02575329,0.20220588235294118,Integrated Gradients,LVI Yes,Clinical / pathology,,False,Risk-increasing,17
+MUT_KRAS,0.027002558,0.027002558,0.12867647058823528,Integrated Gradients,KRAS mutation,Mutation,KRAS,True,Risk-increasing,18
+PRED_CATEGORY_Biliary class,0.025762249,0.025762249,0.09558823529411764,Integrated Gradients,PRED CATEGORY Biliary class,Other,,False,Risk-increasing,19
+CNA_CDKN2Ap14ARF,0.025441617,0.025301948,0.10294117647058823,Integrated Gradients,CDKN2Ap14ARF CNA,Copy number alteration,CDKN2Ap14ARF,True,Risk-increasing,20
+MULTIFOCAL_DISEASE_No,0.021954304,-0.018742122,0.03676470588235294,Integrated Gradients,MULTIFOCAL DISEASE No,Clinical / pathology,,False,Protective,21
+MAJOR_LIVER_RESECTION_No,0.021313146,-0.011606065,0.058823529411764705,Integrated Gradients,MAJOR LIVER RESECTION No,Other,,False,Protective,22
+METASTATIC_SITE_Liver,0.020902548,0.018842028,0.08088235294117647,Integrated Gradients,METASTATIC SITE Liver,Clinical / pathology,,False,Risk-increasing,23
+PNI_Yes,0.017837262,-0.012871247,0.04779411764705882,Integrated Gradients,PNI Yes,Clinical / pathology,,False,Protective,24
+PNI_,0.017744923,0.014603098,0.29411764705882354,Integrated Gradients,PNI ,Clinical / pathology,,False,Risk-increasing,25
+PNI_No,0.017525872,-0.016306577,0.011029411764705883,Integrated Gradients,PNI No,Clinical / pathology,,False,Protective,26
+ADJUVANT_SYSTEMIC_THERAPY_Yes,0.016659487,-0.014799197,0.03308823529411765,Integrated Gradients,ADJUVANT SYSTEMIC THERAPY Yes,Treatment / surgery,,False,Protective,27
+CNA_TP53,0.016284835,0.016284835,0.007352941176470588,Integrated Gradients,TP53 CNA,Copy number alteration,TP53,True,Risk-increasing,28
+LVI_No,0.015923105,-0.01400189,0.022058823529411766,Integrated Gradients,LVI No,Clinical / pathology,,False,Protective,29
+RESECTION_MARGIN_,0.014802321,0.013245558,0.3014705882352941,Integrated Gradients,RESECTION MARGIN ,Treatment / surgery,,False,Risk-increasing,30
+MUT_ARID1A,0.014032611,0.01227781,0.12867647058823528,Integrated Gradients,ARID1A mutation,Mutation,ARID1A,True,Risk-increasing,31
+MAJOR_LIVER_RESECTION_Yes,0.013930133,-0.013759741,0.003676470588235294,Integrated Gradients,MAJOR LIVER RESECTION Yes,Other,,False,Protective,32
+CNA_CDKN2B,0.012648793,0.011494076,0.08823529411764706,Integrated Gradients,CDKN2B CNA,Copy number alteration,CDKN2B,True,Risk-increasing,33
+CNA_AXL,0.011903036,-0.011903036,0.0,Integrated Gradients,AXL CNA,Copy number alteration,AXL,True,Protective,34
+MAJOR_LIVER_RESECTION_,0.0107522765,-0.0004692316,0.16544117647058823,Integrated Gradients,MAJOR LIVER RESECTION ,Other,,False,Protective,35
+MULTIFOCAL_DISEASE_Yes,0.008540729,0.0018377444,0.21323529411764705,Integrated Gradients,MULTIFOCAL DISEASE Yes,Clinical / pathology,,False,Risk-increasing,36
+HISTO_SUBTYPE_,0.008196013,0.007898073,0.10661764705882353,Integrated Gradients,HISTO SUBTYPE ,Other,,False,Risk-increasing,37
+TUMOR_STAGE_Well differentiated,0.007609879,-0.007609879,0.0,Integrated Gradients,TUMOR STAGE Well differentiated,Clinical / pathology,,False,Protective,38
+ADJUVANT_SYSTEMIC_THERAPY_No,0.0070052464,-7.291412e-05,0.12867647058823528,Integrated Gradients,ADJUVANT SYSTEMIC THERAPY No,Treatment / surgery,,False,Protective,39
+MUT_CD276,0.0062995963,0.0062995963,0.003676470588235294,Integrated Gradients,CD276 mutation,Mutation,CD276,True,Risk-increasing,40
+NEOADJUVANT_SYSTEMIC_THERAPY_No,0.0062273866,-0.0062273866,0.0,Integrated Gradients,NEOADJUVANT SYSTEMIC THERAPY No,Treatment / surgery,,False,Protective,41
+CNA_CDKN2Ap16INK4A,0.0060847066,-0.000773461,0.029411764705882353,Integrated Gradients,CDKN2Ap16INK4A CNA,Copy number alteration,CDKN2Ap16INK4A,True,Protective,42
+MUT_SHQ1,0.003135753,0.003135753,0.003676470588235294,Integrated Gradients,SHQ1 mutation,Mutation,SHQ1,True,Risk-increasing,43
+CNA_WHSC1L1,0.0024839768,0.0024839768,0.007352941176470588,Integrated Gradients,WHSC1L1 CNA,Copy number alteration,WHSC1L1,True,Risk-increasing,44
+CNA_POLD1,0.00025442365,-0.00025442365,0.0,Integrated Gradients,POLD1 CNA,Copy number alteration,POLD1,True,Protective,45
+CNA_PPP2R1A,0.00022546174,-0.00022546174,0.0,Integrated Gradients,PPP2R1A CNA,Copy number alteration,PPP2R1A,True,Protective,46
+MUT_FGFR4,0.00011961121,-0.00011961121,0.0,Integrated Gradients,FGFR4 mutation,Mutation,FGFR4,True,Protective,47
+CNA_HOXB13,0.0,0.0,0.0,Integrated Gradients,HOXB13 CNA,Copy number alteration,HOXB13,True,Neutral,48
+CNA_XPO1,0.0,0.0,0.0,Integrated Gradients,XPO1 CNA,Copy number alteration,XPO1,True,Neutral,49
+CNA_REL,0.0,0.0,0.0,Integrated Gradients,REL CNA,Copy number alteration,REL,True,Neutral,50

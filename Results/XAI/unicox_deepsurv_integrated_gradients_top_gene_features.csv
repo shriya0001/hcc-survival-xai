@@ -1,0 +1,18 @@
+feature,mean_abs_attribution,mean_signed_attribution,positive_attribution_fraction,method,readable_label,feature_group,gene_symbol,is_gene_feature,direction,rank
+CNA_CDKN2A,0.03732426,0.03708962,0.10661764705882353,Integrated Gradients,CDKN2A CNA,Copy number alteration,CDKN2A,True,Risk-increasing,15
+MUT_KRAS,0.027002558,0.027002558,0.12867647058823528,Integrated Gradients,KRAS mutation,Mutation,KRAS,True,Risk-increasing,18
+CNA_CDKN2Ap14ARF,0.025441617,0.025301948,0.10294117647058823,Integrated Gradients,CDKN2Ap14ARF CNA,Copy number alteration,CDKN2Ap14ARF,True,Risk-increasing,20
+CNA_TP53,0.016284835,0.016284835,0.007352941176470588,Integrated Gradients,TP53 CNA,Copy number alteration,TP53,True,Risk-increasing,28
+MUT_ARID1A,0.014032611,0.01227781,0.12867647058823528,Integrated Gradients,ARID1A mutation,Mutation,ARID1A,True,Risk-increasing,31
+CNA_CDKN2B,0.012648793,0.011494076,0.08823529411764706,Integrated Gradients,CDKN2B CNA,Copy number alteration,CDKN2B,True,Risk-increasing,33
+CNA_AXL,0.011903036,-0.011903036,0.0,Integrated Gradients,AXL CNA,Copy number alteration,AXL,True,Protective,34
+MUT_CD276,0.0062995963,0.0062995963,0.003676470588235294,Integrated Gradients,CD276 mutation,Mutation,CD276,True,Risk-increasing,40
+CNA_CDKN2Ap16INK4A,0.0060847066,-0.000773461,0.029411764705882353,Integrated Gradients,CDKN2Ap16INK4A CNA,Copy number alteration,CDKN2Ap16INK4A,True,Protective,42
+MUT_SHQ1,0.003135753,0.003135753,0.003676470588235294,Integrated Gradients,SHQ1 mutation,Mutation,SHQ1,True,Risk-increasing,43
+CNA_WHSC1L1,0.0024839768,0.0024839768,0.007352941176470588,Integrated Gradients,WHSC1L1 CNA,Copy number alteration,WHSC1L1,True,Risk-increasing,44
+CNA_POLD1,0.00025442365,-0.00025442365,0.0,Integrated Gradients,POLD1 CNA,Copy number alteration,POLD1,True,Protective,45
+CNA_PPP2R1A,0.00022546174,-0.00022546174,0.0,Integrated Gradients,PPP2R1A CNA,Copy number alteration,PPP2R1A,True,Protective,46
+MUT_FGFR4,0.00011961121,-0.00011961121,0.0,Integrated Gradients,FGFR4 mutation,Mutation,FGFR4,True,Protective,47
+CNA_HOXB13,0.0,0.0,0.0,Integrated Gradients,HOXB13 CNA,Copy number alteration,HOXB13,True,Neutral,48
+CNA_XPO1,0.0,0.0,0.0,Integrated Gradients,XPO1 CNA,Copy number alteration,XPO1,True,Neutral,49
+CNA_REL,0.0,0.0,0.0,Integrated Gradients,REL CNA,Copy number alteration,REL,True,Neutral,50

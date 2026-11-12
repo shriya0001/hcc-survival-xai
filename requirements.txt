@@ -1,0 +1,13 @@
+# Run on Google Colab (2026 runtime). Versions not pinned: the original runs used Colab's defaults.
+numpy
+pandas
+scipy
+scikit-learn
+scikit-survival
+lifelines
+statsmodels
+torch
+captum
+matplotlib
+matplotlib-venn
+seaborn

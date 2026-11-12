@@ -1,0 +1,2 @@
+hidden_layers,dropout_rate,batch_size,activation,optimizer,weight_decay,learning_rate,patience,epochs,mean_best_epoch,mean_c_index
+"[128, 64]",0.0,128,LeakyReLU,AdamW,0.0001,0.005,20,100,44.0,0.7294478501951818
