@@ -2,6 +2,8 @@
 
 Code for our paper at the **2026 IEEE Biomedical Engineering International Conference (BMEiCON-2026)**.
 
+📄 **Paper (accepted version):** [paper/BMEiCON2026_HCC_Thakur_Bhandari_accepted.pdf](paper/BMEiCON2026_HCC_Thakur_Bhandari_accepted.pdf). The IEEE Xplore link will be added once it's published.
+
 This project predicts overall survival for 1,357 patients with hepatocellular carcinoma (HCC) using clinical, tumour, mutation and copy-number data. It then asks *which genes drive the prediction*. Three explainability methods are run on a DeepSurv model, and their answers are combined into one consensus ranking of candidate prognostic biomarkers.
 
 ---
@@ -93,3 +95,5 @@ Conference (BMEiCON-2026), IEEE, 2026.
 ```
 
 For research use only; not for clinical decision-making.
+
+**Copyright notice for the paper PDF:** © 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
